@@ -22,6 +22,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.1",
     "rxjs": "~7.8.0",
+    "state-managment": "file:",
     "tslib": "^2.3.0",
     "wcs-core": "^6.0.0-rc.1",
     "zone.js": "~0.14.3"
